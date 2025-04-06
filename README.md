@@ -8,4 +8,4 @@
 <br>
 
 - ### 깃허브 업로드 방법
-- ### [깃허브 업로드 설명서](https://github.com/Project-Division/DIV_Algorithm_Study/blob/main/how_to_upload.md)
+  -  [깃허브 업로드 설명서](https://github.com/Project-Division/DIV_Algorithm_Study/blob/main/how_to_upload.md)
